@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892493235707",
+    "project_id": "kiloapp-bfdaa",
+    "storage_bucket": "kiloapp-bfdaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892493235707:android:a435c1c5a8842cca48b75e",
+        "android_client_info": {
+          "package_name": "com.example.exercise_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9pQ5K3ymwV2KVlOVcBw7c4HRfSg5DCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

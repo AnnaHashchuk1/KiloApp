@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/annahashchuk/Desktop/uni/3 course/KPP/labs/exercise_tracker",
+      "program": "/Users/annahashchuk/Desktop/uni/3 course/KPP/labs/exercise_tracker/build/Debug/outDebug"
+    }
+  ]
+}
